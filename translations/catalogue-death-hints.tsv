@@ -1,0 +1,85 @@
+DEADQUOTE_IT_IS_LAMENTABLE_THAT	「可悲的是，要成為一個好愛國者，就必須成為其他人類的敵人。」——伏爾泰
+DEADQUOTE_PATRIOTISM_RUINS_HISTORY	「愛國主義毀了歷史。」——歌德
+DEADQUOTE_SO_STAY_NEAR_TEAMMATE	作戰情報\n靠近隊友，互相配合。
+DEADQUOTE_JUGGERNAUT_HEADSHOTS	作戰情報\n對抗重裝兵時，試著瞄準頭部。
+DEADQUOTE_WE_MUST_NOT_CONFUSE_DISSENT	「我們不可將異議與不忠混為一談。」——愛德華．R．莫羅
+DEADQUOTE_I_WAS_BORN_AN_AMERICAN	「我生為美國人，將以美國人的身分活著，也將以美國人的身分死去！」——丹尼爾．韋伯斯特
+MESSAGEBOX_FILE_WRITE_ERROR	檔案寫入錯誤
+DEADQUOTE_IF_YOU_WANT_A_SYMBOLIC	「如果想做個象徵性的舉動，別燒國旗，把它洗乾淨。」——諾曼．湯瑪斯
+DEADQUOTE_BEFORE_YOU_EMBARK_UPON	「踏上復仇之路前，先挖好兩座墳墓。」——孔子
+MESSAGEBOX_IT_APPEARS_THAT_CALL	《現代戰爭 2》上次似乎沒有正常結束。是否以安全模式執行？建議大多數玩家選用此模式。它會變更系統設定，保留操作設定。
+DEADQUOTE_A_NATION_REVEALS_ITSELF	「一個國家不只從它培養的人展現自身，也從它表揚與銘記的人展現自身。」——約翰．F．甘迺迪
+MESSAGEBOX_RECOMMENDED_SETTINGS	建議設定已更新
+DEADQUOTE_SO_SEARCH_FOR_WEAPONS	作戰情報\n留意能幫上忙的特殊武器。
+DEADQUOTE_SO_CLAYMORE_POINT_ENEMY	作戰情報\n布設闊刀地雷時，讓紅色光束朝向敵人可能出現的位置。
+DEADQUOTE_SO_STEALTH_STAY_LOW	作戰情報\n壓低身體。站立或衝刺時更容易被看見、聽見。
+MESSAGEBOX_LOW_DESKTOP_COLOR_DEPTH	桌面色彩深度不足
+MESSAGEBOX_IT_IS_HIGHLY_UNLIKELY	目前的桌面色彩深度很可能無法正確初始化視窗顯示。選擇「確定」仍可嘗試，按「取消」則離開。
+DEADQUOTE_SO_ICON_OBJ_OFFSCREEN	目標不在視野內時，其圖示會改變。
+DEADQUOTE_JUGGERNAUT_CORNERED	作戰情報\n別被重裝兵逼入死角。保持距離。
+DEADQUOTE_SO_FRIENDLY_FIRE_KILL	攻擊友軍，任務失敗。
+DEADQUOTE_SO_TOGGLE_WEAP_ALT_MODE	作戰情報\n按^3 [{+actionslot 3}] ^7使用榴彈發射器和下掛霰彈槍。
+MESSAGEBOX_YOUR_COMPUTER_APPEARS	你的電腦硬體似乎與上次執行《現代戰爭 2》時不同。是否讓遊戲自動套用適合新硬體的最佳設定？建議大多數玩家選用。這會變更系統設定，保留操作設定。
+DEADQUOTE_I_WILL_FIGHT_FOR_MY_COUNTRY	「我會為祖國而戰，但不會為她說謊。」——佐拉．尼爾．赫斯頓
+DEADQUOTE_SO_STEALTH_USE_SILENCERS	作戰情報\n使用消音器。手榴彈和未消音的武器會引起大量注意。
+DEADQUOTE_YOU_CANNOT_GET_AHEAD	「一心扳回一城，就無法向前邁進。」——迪克．阿米
+DEADQUOTE_SO_BEAT_BEST_TIME	試著超越最佳時間。\n嘗試不同策略與路線。
+DEADQUOTE_SO_LEFT_PLAY_AREA	堅守崗位！\n你已放棄任務。
+DEADQUOTE_SO_ICON_PARTNER	尋找搭檔的姓名即可定位。若搭檔在畫面外，綠色箭頭會指向他。
+DEADQUOTE_DISSENT_REBELLION_AND	「……提出異議、反抗與到處惹麻煩，仍是愛國者真正的責任。」——芭芭拉．艾倫瑞克
+DEADQUOTE_RIOTSHIELD_OUT_FLANK	作戰情報\n防暴盾只能保護正面！繞到側面，他們就和普通敵人一樣脆弱。
+DEADQUOTE_SO_FIND_FRIEND_COOP	沒有人孤軍奮戰！\n與好友一起遊玩分割畫面或雙人連線。
+DEADQUOTE_LIVE_WELL_IT_IS_THE_GREATEST	「好好活著，就是最好的復仇。」——《塔木德》
+DEADQUOTE_REVENGE_IS_PROFITABLE	「復仇有利可圖。」——愛德華．吉本
+DEADQUOTE_SO_ICON_OBJ	作戰情報\n白點標示任務目標的位置。
+DEADQUOTE_SO_FRIENDLY_FIRE_HINT	作戰情報\n你會傷到隊友！避免誤傷友軍。
+DEADQUOTE_PATRIOTISM_IS_SUPPORTING	「愛國，就是永遠支持祖國，並在政府值得支持時支持政府。」——馬克．吐溫
+MESSAGEBOX_LOW_MEMORY	記憶體不足
+MESSAGEBOX_IT_LOOKS_LIKE_YOU_ARE	你的虛擬記憶體似乎不足，可能使遊戲變慢，甚至完全停止。強烈建議執行《現代戰爭 2》前，先關閉部分程式。是否仍要執行？
+MESSAGEBOX_THE_RECOMMENDED_SETTINGS	《現代戰爭 2》的建議設定已更新。是否讓遊戲自動套用新的最佳設定？建議大多數玩家選用。這會變更系統設定，保留操作設定。
+MESSAGEBOX_HARDWARE_CHANGE_DETECTED	偵測到硬體變更
+MESSAGEBOX_CALL_OF_DUTY_COULDNT	《現代戰爭 2》無法寫入檔案，硬碟可能已滿。
+MESSAGEBOX_IMPROPER_QUIT_DETECTED	偵測到非正常結束
+DEADQUOTE_SO_TOGGLE_TIMER	作戰情報\n按^3 [{+actionslot 1}] ^7切換計時器與任務統計。
+DEADQUOTE_PATRIOTISM_IS_YOUR_CONVICTION	「愛國主義，就是只因生於這個國家，便堅信它優於所有其他國家。」——蕭伯納
+DEADQUOTE_THOSE_WHO_PLOT_THE_DESTRUCTION	「圖謀毀滅他人的人，往往在行動中自取滅亡。」——湯瑪斯．摩爾
+DEADQUOTE_RIOTSHIELD_USE_EXPLOSIVE	作戰情報\n對付持防暴盾的敵人，試著使用手榴彈、RPG 和榴彈發射器。
+DEADQUOTE_REVENGE_AT_FIRST_THOUGH	「復仇起初雖然甜美，很快卻會反噬自身，留下苦澀。」——約翰．彌爾頓
+DEADQUOTE_A_MANS_FEET_MUST_BE_PLANTED	「一個人的雙腳應立足祖國，雙眼卻應放眼世界。」——喬治．桑塔亞那
+DEADQUOTE_IF_YOU_ARE_ASHAMED_TO	「若羞於挺身捍衛自己的旗幟，就該另尋一面旗幟。」——佚名
+DEADQUOTE_ASK_NOT_WHAT_YOUR_COUNTRY	「別問國家能為你做什麼，要問你能為國家做什麼。」——約翰．F．甘迺迪
+DEADQUOTE_SO_TRY_NEW_DIFFICULTY	作戰情報\n若特種作戰太難或太簡單，試試其他難度。
+DEADQUOTE_ONE_GOOD_ACT_OF_VENGEANCE	「一場痛快的復仇，值得再來一場。」——強．傑佛遜
+DEADQUOTE_RIOTSHIELD_DONT_CHARGE	作戰情報\n保持距離！衝向持防暴盾的敵人不是好主意。
+DEADQUOTE_PATRIOTISM_VARIES_FROM	「愛國主義的樣貌，從高尚的奉獻到道德的瘋狂皆有。」——W．R．英格
+DEADQUOTE_SO_STEALTH_LOOK_FOR_ENEMIES	作戰情報\n開槍前，留意靠近目標或面向目標的敵人。迅速消滅整組，避免暴露。
+DEADQUOTE_SO_CLAYMORE_ENEMIES_SHOOT	作戰情報\n敵人會射擊暴露的闊刀地雷。將地雷藏在掩蔽物後。
+DEADQUOTE_IF_AN_INJURY_HAS_TO_BE	「若必須傷害一個人，就要傷得夠重，使人無須畏懼他的復仇。」——馬基維利
+DEADQUOTE_DONT_GET_MAD_GET_EVEN	「別生氣，討回來。」——羅伯特．F．甘迺迪
+DEADQUOTE_SO_TEXT_COLOR_DIFFICULTY	作戰情報\n選擇任務時，紅字代表的難度比綠字更高。
+DEADQUOTE_SO_RUN_OVER_BY_VEHICLE	你被車輛輾過。\n留意移動中的敵方車輛。
+DEADQUOTE_SO_GRENADES_ROLL	作戰情報\n小心！手榴彈會滾下斜坡。
+DEADQUOTE_SO_RED_FIND_COVER	作戰情報\n畫面一片紅時，就該找掩護了。
+DEADQUOTE_SO_BLED_OUT	隊友失血而死。互相配合，有人倒地時就救起對方。
+DEADQUOTE_SO_CRAWL_TO_TEAMMATE	作戰情報\n若你倒地，試著爬向隊友。
+DEADQUOTE_SO_THROW_FLASHBANG	作戰情報\n投擲 ^3[{+smoke}]^7 閃光彈，暫時制住敵人。
+DEADQUOTE_JUGGERNAUT_FLASHBANGS	作戰情報\n使用 ^3[{+smoke}]^7 閃光彈，拖慢重裝兵。
+DEADQUOTE_JUGGERNAUT_HIGHCALIBER_WEAPONS	作戰情報\n巴雷特 .50 口徑狙擊步槍和沙漠之鷹等大口徑武器，對重裝兵更有效。
+DEADQUOTE_JUGGERNAUT_EXPLOSIVES	作戰情報\n爆裂物對重裝兵非常有效。
+DEADQUOTE_SO_STAR_RANKINGS	困難難度通關可獲得兩顆星，老兵難度則是三顆星。
+DEADQUOTE_IN_TAKING_REVENGE_A_MAN	「復仇只能讓人與敵人扯平；放下復仇，才能超越敵人。」——法蘭西斯．培根
+DEADQUOTE_AN_EYE_FOR_AN_EYE_MAKES	「以眼還眼，會讓全世界都失明。」——甘地
+DEADQUOTE_A_CITIZEN_OF_AMERICA	「美國公民願渡海為民主而戰，卻不願過街去投票……」——比爾．沃恩
+DEADQUOTE_PATRIOTISM_IS_A_ARBITRARY	「愛國主義，就是任意將對土地的崇敬置於原則之上。」——喬治．尚．內森
+DEADQUOTE_THE_NATION_IS_DIVIDED	「國家分裂了，一半是愛國者，一半是叛徒，而誰也分不清誰是誰。」——馬克．吐溫
+DEADQUOTE_I_ONLY_REGRET_THAT_I	「我唯一的遺憾，是只有一條命能獻給祖國。」——納森．黑爾
+DEADQUOTE_NATIONALISM_IS_AN_INFANTILE	「民族主義是一種幼稚的疾病，是人類的麻疹。」——阿爾伯特．愛因斯坦
+DEADQUOTE_IF_OUR_COUNTRY_IS_WORTH	「若祖國值得我們在戰時為她而死，就讓我們決心在和平時真正為她而活。」——漢密爾頓．費許
+DEADQUOTE_TRADITIONAL_NATIONALISM	「傳統民族主義無法在原子分裂後繼續存在。要麼同一個世界，要麼一無所有。」——史都華．蔡斯
+DEADQUOTE_WE_KNOW_WHERE_THEY_ARE	「我們知道它們在哪裡。就在提克里特與巴格達周邊，東西南北的一些地方。」——唐納．倫斯斐
+DEADQUOTE_I_WOULD_NOT_SAY_THAT	「我不會說未來一定比過去更難預測。我認為過去在開始時，也無法預測。」——唐納．倫斯斐
+DEADQUOTE_IT_IS_EASY_TO_TAKE_LIBERTY	「從未被剝奪自由的人，很容易將自由視為理所當然。」——迪克．錢尼
+DEADQUOTE_PRINCIPLE_IS_OK_UP_TO	「原則在某個限度內很好，但如果你輸了，原則就毫無用處。」——迪克．錢尼
+DEADQUOTE_I_LOVE_AMERICA_MORE_THAN	「我愛美國勝過世上任何其他國家；正因如此，我堅持永遠批評她的權利。」——詹姆斯．鮑德溫
+DEADQUOTE_AS_WE_EXPRESS_OUR_GRATITUDE	「表達感激時，別忘了最深的感激不在言語，而在付諸實行。」——約翰．F．甘迺迪
+DEADQUOTE_SO_TURRET_PLACEMENT	作戰情報\n保護自動機槍！放在有掩護、且不易遭包抄的位置。

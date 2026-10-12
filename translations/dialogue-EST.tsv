@@ -1,0 +1,151 @@
+SNP1_RPGTEAMEAST145	RPG 小隊正從東面逼近！
+SNP1_MOVING109	我要換個制高點。狙擊支援會中斷四十五秒，請稍候。
+GST_NOSIGN64	謝菲爾德將軍，這裡是幽靈。沒發現馬卡洛夫，重複，沒發現馬卡洛夫。普萊斯上尉，阿富汗那邊有收穫嗎？
+GST_WESTSIDEOFHOUSE126	收到，敵軍從屋子西側逼近！
+GST_FILESOFF613	小強，把 DSM 接上馬卡洛夫的電腦。
+SNP1_TROOPSWEST121	他們在屋子西側空降更多部隊！
+GST_FALLBACK153	小強，你到底在哪裡？！撤回屋子！快！
+SNP1_DISPLACING1010	我在轉移位置。狙擊支援會中斷三十秒，請稍候。
+GST_CLEAR59	安全！
+SNP1_RPGTEAMWEST1413	RPG 小隊從西面逼近！
+PRI_ATLEAST5066	收穫可多了……這裡至少有五十名傭兵，卻沒有馬卡洛夫的蹤影。也許情報錯了。
+GST_USECLAYMORES96	小強，在車道布設闊刀地雷，再撤回屋子！
+GST_CLEAREDHOT265	雷霆二一，准許開火！
+SNP1_MAINROAD71	狙擊一隊呼叫突擊隊，注意，敵方直升機從西北和東南逼近。
+PRI_GOINGSILENT621	幽靈，我們要暫停通訊幾分鐘。祝你們在俄國順利。普萊斯通話完畢。
+GST_REDSMOKE261	雷霆二一，我已在樹林邊緣投放紅色煙霧！等我下令再攻擊！
+GST_FIELDTOSE164	收到！全員掩護東南面的空地！快！
+GST_GETTOTHELZ241	我們得去降落區！小強，快！
+SNP1_ADDITIONALHOSTILE111	看到更多敵軍向你們的位置移動。他們從屋子東側的太陽能板區逼近。
+PRI_GETTINGCLOSER620	肥皂，掩護我。我要幹掉那傢伙，用他的無線電監聽敵軍通訊。
+GST_DONTSTRAY152	小強！別離安全屋太遠！我們得保護資料傳輸！
+GST_LOCKEDROOMS511	小強，上樓檢查頂樓所有上鎖的房間。破門清剿。
+SCR_INPOSITION77	我已就位！
+GST_BREACHNCLEAR44	破門清剿安全屋！快！快！
+GST_LETSGO2510	快走！快走！
+GST_RPGTEAMWEST1414	確實收到！RPG 小隊從西面逼近！
+GST_PHOTOS62	稻草人，拍照。
+SCR_ONTHEWAY191	正在過去！
+GST_WEAPONSCACHE74	利用武器儲藏點，有剩餘的闊刀地雷就布設。進入防禦位置，快！
+SCR_IMHIT173	我中彈了！
+GST_LOSTTHEDSM155	敵人太多了！小強！我們失去了 DSM，重複，我們失去——
+GST_GOLDMINE67	情報品質馬上就會改善了。這座安全屋簡直是座金礦。
+GST_KEEPMOVING234	前往降落區！繼續前進！
+OZN_MOVING193	正在移動！
+GST_15SECONDS76	收到，十五秒！
+GST_ONOURWAY224	我們正在前往降落區！小強，快走！
+GST_DININGROOMCLR58	餐廳安全！
+SNP1_CLEARFORNOW185	好，目前安全，沒看到敵人靠近屋子。
+GST_LETSGOLETSGO15	走吧！快走！
+OZN_MAINWINDOWS95	我要到正面的窗戶。需要有人布雷，掩護車道入口。
+SNP1_OZONEISDOWN172	臭氧倒下了！
+GST_DESTROYEDTHEDSM156	小強！他們摧毀了 DSM！他們摧毀——
+GST_HANGINTHERE264	小強，撐住！
+GST_WEGOTIT292	拿到了，長官！
+SCR_FRONTLAWN94	我們得掩護前院草坪！
+SCR_MAINFLOOR51	一樓安全！
+GST_SITREP513	稻草人，報告狀況。
+GST_RPGTEAMNORTH142	收到，北面有 RPG 小隊！
+SNP1_RPGTEAMNW1415	RPG 小隊，西北方！
+OZN_CONSIDERITDONE197	包在我身上。
+SHP_ALMOSTATLZ223	這裡是謝菲爾德將軍。我們快到降落區了。你們情況如何？完畢。
+GST_BASEMENT54	收到，地下室安全！
+GST_TARGETSLEFTSIDE24	敵人！左側！左側！
+SNP1_TRUCKSLEAVING32	有兩輛卡車正離開目標建築！
+GST_AMBUSH21	有埋伏！
+GST_MOREONRIGHT25	右邊還有！
+SCR_PRESIGHTED26	他們已標定這區的迫擊砲射擊諸元！
+GST_COUNTERATTACK27	衝進煙霧反擊！前進！前進！前進！
+GST_LOSEEMINSMOKE28	小強！迫擊砲會打中你！躲進煙霧甩掉他們！快！快！快！
+GST_HOSTCHOPPER31	南面有敵方直升機！
+GST_TRUCKSGETAWAY33	別讓那些卡車跑了！
+GST_BULLETPROOFED34	該死，這些卡車有防彈裝甲！
+GST_UPARMORED35	該死，這些卡車加裝了裝甲！
+SNP1_FIRINGJAVELIN36	收到！發射標槍飛彈，友軍注意近距離爆炸！
+GST_DANGERCLOSE37	標槍飛彈，近距離爆炸！離開道路！
+SNP1_TWOAWAY38	兩發已射出！
+SNP1_NEUTRALIZED39	移動車輛已摧毀。
+SNP1_DECOYS41	注意，我們沒有，重複，沒有發現馬卡洛夫，也沒有人再離開屋子。那些卡車可能是誘餌。完畢。
+GST_ADVANCINGONHOUSE42	收到，現在向屋子推進！
+GST_CLEARPERIMIETER43	清剿周邊！
+GST_MAINFLOOR52	收到，一樓安全！
+SCR_BASEMENT53	地下室安全！
+SCR_TOPFLOOR55	頂樓安全！
+GST_TOPFLOOR56	收到，頂樓安全！
+GST_OFFICECLEAR57	辦公室安全！
+SCR_GETUPSTAIRS512	小強，我掩護這裡。上樓檢查頂樓的房間。
+SCR_NOONESLEAVING514	沒人從地下室前方離開。
+GST_CHECKBASEMENT515	小強，跟稻草人去地下室搜索敵人。破門清剿。快。
+GST_THRUKITCHEN516	臭氧，確保沒人從廚房逃走。
+OZN_ROGERTHAT517	收到。
+SCR_GOTYOURBACK518	小強，我掩護你。
+GST_REGROUP61	全部安全。全隊，到我這裡集合。
+SCR_ROGERTHAT63	收到。
+SHP_EVERYTHING68	收到。幽靈，讓你的小隊蒐集所有能用來擬定行動計畫的資料。姓名、聯絡人、地點，什麼都要。
+GST_ALREADYONIT69	我們已經在做了，長官。馬卡洛夫將無處可逃。
+SHP_ETA5MINS610	就是要這樣。我正帶撤離部隊過去，預計五分鐘抵達。取得情報。謝菲爾德將軍通話完畢。
+GST_STARTTRANSFER611	小強，操作馬卡洛夫的電腦，開始傳輸。
+GST_TAPINTONETWORK612	小強，接入馬卡洛夫的網路，開始傳輸。
+GST_CONNECTTONETWORK614	小強，把 DSM 接上馬卡洛夫的網路。
+GST_REARSECURITY615	臭氧，你負責後方警戒。我守前面。快。
+OZN_ONMYWAY616	正在過去。
+GST_STARTDOWNLOAD617	小強，沒拿到那些檔案就不能走。開始傳輸。
+SCR_VERYFUNNY618	小強，你可真幽默。
+PRI_SEARCHING619	特遣隊，這裡是普萊斯。飛機墳場又來了一批馬卡洛夫的人……
+SNP1_60SECONDS72	最多還有六十秒，完畢。
+GST_WITHINTEL73	馬卡洛夫的人會不惜一切阻止我們帶走情報。我們必須保護 DSM，直到傳輸完成。
+SNP1_15SECONDS75	敵方直升機十五秒後抵達。
+OZN_READYENGAGE78	準備交戰！
+OZN_STOCKUP81	小強，地下室有武器庫。趁現在補足彈藥。
+SNP1_FASTATTACK92	敵方快速攻擊直升機從西北方逼近。
+GST_HELOSNW93	收到。敵方直升機從西北方逼近。
+GST_SOLARPANELSEAST112	他們正穿過屋子東面的太陽能板區！
+SCR_COMETHRUTREES113	收到，我會試著在他們穿過樹林時攔下他們。
+GST_EASTTRAIL114	有闊刀地雷就用。在屋子東面的步道旁布設。
+GST_BOATHOUSE122	他們一定在船屋附近！掩護西側入口！
+OZN_249SANDRPGS123	餐廳窗邊有 M240 和 RPG，還有 L86 機槍。
+GST_STAYCLOSE151	小強！別離屋子太遠！
+GST_CUTEMDOWN124	收到，等他們走出樹林，就用那些武器掃倒他們！
+SNP1_BOATHOUSEWEST125	敵人正從西面的船屋逼近，完畢。
+SNP1_RPGTEAMNORTH141	北面有 RPG 小隊！
+SNP1_RPGTEAMNE143	RPG 小隊正從東北面逼近！
+SCR_RPGTEAMNE144	全隊！RPG 小隊正從東北面逼近！
+OZN_RPGTEAMEAST146	收到，RPG 小隊正從東面逼近！
+SNP1_RPGTEAMSE147	東南面有 RPG 小隊！
+GST_RPGTEAMSE148	收到，東南面有 RPG 小隊！
+SNP1_RPGTEAMSOUTH149	RPG 小隊正從南面逼近！
+SCR_RPGTEAMSOUTH1410	收到，RPG 小隊正從南面逼近！
+SNP1_RPGTEAMSW1411	RPG 小隊正從西南面逼近！
+OZN_RPGTEAMSW1412	收到！RPG 小隊正從西南面逼近！
+GST_RPGTEAMNW1416	全隊！西北面有 RPG 小隊！
+GST_TRYINGTOSTOP154	小強，撤回安全屋！他們想阻止傳輸！
+SCR_WHATWASTHAT161	剛才那是什麼？
+SNP1_HOSTILESSE162	注意，大批敵人從東南面逼近，剛剛突破了防線！
+SNP1_THINEMOUT163	我會在他們靠近前削減人數。建議換用配備瞄準鏡的武器，完畢。
+OZN_EYESON165	我看到了！他們來了！在東南面的空地！
+OZN_IMHIT171	我中彈了！
+SNP1_SCARECROWDOWN174	稻草人倒下了，重複，稻草人倒下了！
+SCR_INSIDETHEHOUSE181	注意，他們進屋了！需要支援！
+SCR_NEEDSOMEHELP182	他們進屋了！我這裡需要支援！
+SNP1_FIFTYMETERS183	敵人已逼近屋子五十公尺內！他們進去了！
+GST_PROTECTTHEDSM184	收到！全員撤回，保護 DSM！
+SCR_OSCARMIKE192	收到，開始移動！
+OZN_IMONIT194	我來處理！
+SCR_ROGERTHAT2195	收到！
+SCR_YOUGOTIT196	沒問題！
+OZN_ROGERTHAT2198	收到。
+SNP1_ENEMYSIGHTED201	發現敵軍，正穿過屋子北面的樹林。
+GST_ONTHEDRIVEWAY202	收到。小強，在通往屋子的車道上布設闊刀地雷！快！
+GST_DSMCOMPLETE221	小強，傳輸完成！我掩護正面入口，你去拿 DSM！快！
+GST_GETOUTTAHERE222	小強！我掩護前面！拿上 DSM！我們得離開這裡！
+GST_GOGO235	快！快！
+GST_ILLCOVERYOU236	我掩護你！快走！
+GST_BRACKETING251	他們正用迫擊砲夾射我們的位置，繼續前進，注意後方！
+GST_GOTYOUCOVERED252	小強，我掩護你！快！快！
+GST_GOTYOUROACH263	小強，我扶著你，撐住！
+GST_COMEONGETUP271	快，站起來！
+GST_GETUPGETUP272	站起來！站起來！快到了！
+SHP_HAVETHEDSM291	你們拿到 DSM 了嗎？
+SHP_WELLDONE293	幹得好，士兵。
+SHP_LOOSEEND294	很好。又少了個需要清理的尾巴。
+MCT_SPLITUP304	普萊斯！我們得分頭走，否則死定了！

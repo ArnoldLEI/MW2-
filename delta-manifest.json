@@ -1,0 +1,120 @@
+{
+  "format": 1,
+  "compression_level": 6,
+  "verified_python": "3.12.14",
+  "verified_zlib": "1.3.2",
+  "files": [
+    {
+      "path": "zone/english/af_caves.ff",
+      "delta": "deltas/af_caves.json.gz",
+      "delta_sha256": "c774460e0ad04dd497e849f6bb2cc185aea954d3081ec6ba6f464fac529afdf8"
+    },
+    {
+      "path": "zone/english/af_chase.ff",
+      "delta": "deltas/af_chase.json.gz",
+      "delta_sha256": "2537230bf824977f7d884bec0d489dfdd299b69dab92ea446c9327b30e3f2537"
+    },
+    {
+      "path": "zone/english/airport.ff",
+      "delta": "deltas/airport.json.gz",
+      "delta_sha256": "0459394c39fa6b78d01b43ad61b08cc05bd0f057d4a4a8ae2b5c1127f981b451"
+    },
+    {
+      "path": "zone/english/arcadia.ff",
+      "delta": "deltas/arcadia.json.gz",
+      "delta_sha256": "507b67feff0e598b09eb05634f535495194f74df21b6f973e30c2db5fb2cd1b8"
+    },
+    {
+      "path": "zone/english/boneyard.ff",
+      "delta": "deltas/boneyard.json.gz",
+      "delta_sha256": "cdccf56f6c29ec2d5810c9b0460c685ca28185a461a9f7a1296e001e01a442a3"
+    },
+    {
+      "path": "zone/english/cliffhanger.ff",
+      "delta": "deltas/cliffhanger.json.gz",
+      "delta_sha256": "f6f473de1fcd5f2a7a97c6f54ee462e062c358c1d28c760688dbe2c50f619f82"
+    },
+    {
+      "path": "zone/english/code_post_gfx.ff",
+      "delta": "deltas/code_post_gfx.json.gz",
+      "delta_sha256": "5a3440d270b8556f40b2f126725d999d65ecb970450f2ff614013fb5c16b0bb1"
+    },
+    {
+      "path": "zone/english/common.ff",
+      "delta": "deltas/common.json.gz",
+      "delta_sha256": "75cbbcf82c147824289a051516f65a0c1b2cb0b1a2e70785e973e6de74be4882"
+    },
+    {
+      "path": "zone/english/contingency.ff",
+      "delta": "deltas/contingency.json.gz",
+      "delta_sha256": "4540a9038be20e8f884c8fb2a4ca87072d336c5a0f3b0e4c5375a5f398b3ed41"
+    },
+    {
+      "path": "zone/english/dc_whitehouse.ff",
+      "delta": "deltas/dc_whitehouse.json.gz",
+      "delta_sha256": "8498d1cd40e0c585560effff965126782169ab16918ecab134d33363aa3dbd3c"
+    },
+    {
+      "path": "zone/english/dcburning.ff",
+      "delta": "deltas/dcburning.json.gz",
+      "delta_sha256": "26efbd6c72b90b6836b3ef4fedba5c419836ecab3ec454df5f507b2f0cb570a0"
+    },
+    {
+      "path": "zone/english/dcemp.ff",
+      "delta": "deltas/dcemp.json.gz",
+      "delta_sha256": "010b83a3f89c73a9edd16e8cd7b9c531cdda73048c24e65f93f9a40c80942a5e"
+    },
+    {
+      "path": "zone/english/ending.ff",
+      "delta": "deltas/ending.json.gz",
+      "delta_sha256": "bbbd95f5ccd97d6fd20e93941d3d8e6b46422edee9cd0e075d8c2cd059a541f5"
+    },
+    {
+      "path": "zone/english/estate.ff",
+      "delta": "deltas/estate.json.gz",
+      "delta_sha256": "8590c912cf1d746ac58ad5478bbcb4d51118012b1990f4e9989d9167b18cf8d7"
+    },
+    {
+      "path": "zone/english/favela_escape.ff",
+      "delta": "deltas/favela_escape.json.gz",
+      "delta_sha256": "5cc8d5483c5e43f10e93dbd61076bb5a7ec9b2521337e350aefa292e01a29f28"
+    },
+    {
+      "path": "zone/english/favela.ff",
+      "delta": "deltas/favela.json.gz",
+      "delta_sha256": "c06811c4cf12336cb3622325f031446aa9bca5df31b847119b783799fa2eb7e1"
+    },
+    {
+      "path": "zone/english/gulag.ff",
+      "delta": "deltas/gulag.json.gz",
+      "delta_sha256": "58d7e67b7a950f4c10b1222a063ebdd9b77cde784cf98c0d44bef2d57b6d446a"
+    },
+    {
+      "path": "zone/english/invasion.ff",
+      "delta": "deltas/invasion.json.gz",
+      "delta_sha256": "d24b432ae495ba25fd7de830a8d0048ca1e6f760f318e20c7974865757bc67a4"
+    },
+    {
+      "path": "zone/english/oilrig.ff",
+      "delta": "deltas/oilrig.json.gz",
+      "delta_sha256": "89fdc6ac63073e057a8a891246fd3c592102bc4a0a13bbf5038d90afac6f7d74"
+    },
+    {
+      "path": "zone/english/roadkill.ff",
+      "delta": "deltas/roadkill.json.gz",
+      "delta_sha256": "76fa6f7eb460c58beedc223bd5786dad8e8b1746680668934bcc1adc7c5bc67d"
+    },
+    {
+      "path": "zone/english/trainer.ff",
+      "delta": "deltas/trainer.json.gz",
+      "delta_sha256": "6e1a3318773dfb6de8b3b9c3005f5162ba670f005761e8b263db885b3352563d"
+    },
+    {
+      "path": "zone/english/ui.ff",
+      "delta": "deltas/ui.json.gz",
+      "delta_sha256": "95c31ed86bbb11bbdd5bd9804e1216e1411909abf6498fb179f96b78f87cfa74"
+    }
+  ],
+  "verified_files": 24,
+  "exact_reconstruction_verified": true
+}

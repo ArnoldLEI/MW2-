@@ -1,0 +1,29 @@
+{
+  "zones": [
+    {
+      "zone": "ui",
+      "patched_sha256": "80200c33643a821d0efa2a86c500b13016852daec99d800e30378970e182b23b",
+      "menus_verified": 79,
+      "literal_texts_verified": 4,
+      "all_localize_preserved": true,
+      "runtime_verified": false
+    },
+    {
+      "zone": "common",
+      "patched_sha256": "39e5da611b68efee2f4b9a89f85cc169e656620d68e8ce5070aac602e4363373",
+      "menus_verified": 84,
+      "literal_texts_verified": 3,
+      "all_localize_preserved": true,
+      "runtime_verified": false
+    },
+    {
+      "zone": "airport",
+      "patched_sha256": "ee6e2f237da41ef4668799ffa6c22b1d655256f3dc0144269b3ed9923d0b5b96",
+      "menus_verified": 2,
+      "literal_texts_verified": 1,
+      "all_localize_preserved": true,
+      "runtime_verified": false
+    }
+  ],
+  "installed": false
+}

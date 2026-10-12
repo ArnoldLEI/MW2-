@@ -1,0 +1,301 @@
+{
+  "zones": [
+    {
+      "zone": "af_caves",
+      "patched_sha256": "15b19c775e19b8c4cc23adda73ee10136252ce5a9b973f475e571b3b8739e4cb",
+      "all_localize_entries_verified": 37,
+      "translated_occurrences": 36,
+      "shared_string_occurrences": 0,
+      "verified_aliases": [],
+      "structured_x64_load_succeeded": true,
+      "runtime_verified": false
+    },
+    {
+      "zone": "af_chase",
+      "patched_sha256": "dfa85d5d8470fed78f2e6612c2038f2770227a88e78966a73a4e5c18a893798c",
+      "all_localize_entries_verified": 1435,
+      "translated_occurrences": 15,
+      "shared_string_occurrences": 1,
+      "verified_aliases": [
+        {
+          "key": "CREDIT_CAST_SOAP_MACTAVISH",
+          "target": "肥皂．麥克塔維什",
+          "shared_with": "AF_CHASE_INTROSCREEN_LINE3"
+        }
+      ],
+      "structured_x64_load_succeeded": true,
+      "runtime_verified": false
+    },
+    {
+      "zone": "airport",
+      "patched_sha256": "c4d8caf5cc9e8d61c80f537bab6908659cfb174a066cc0be3ec6b9634a56cc9e",
+      "all_localize_entries_verified": 15,
+      "translated_occurrences": 15,
+      "shared_string_occurrences": 0,
+      "verified_aliases": [],
+      "structured_x64_load_succeeded": true,
+      "runtime_verified": false
+    },
+    {
+      "zone": "arcadia",
+      "patched_sha256": "064e34eee553d87f2c16e6173aa65040cf62ca7659365a7daf5a36502d74a8ad",
+      "all_localize_entries_verified": 16,
+      "translated_occurrences": 16,
+      "shared_string_occurrences": 0,
+      "verified_aliases": [],
+      "structured_x64_load_succeeded": true,
+      "runtime_verified": false
+    },
+    {
+      "zone": "boneyard",
+      "patched_sha256": "d249bc86a4f411c0faa4a4822755d9a4b47cc2d76b0f87ce5ffaa4973fc86500",
+      "all_localize_entries_verified": 12,
+      "translated_occurrences": 12,
+      "shared_string_occurrences": 0,
+      "verified_aliases": [],
+      "structured_x64_load_succeeded": true,
+      "runtime_verified": false
+    },
+    {
+      "zone": "cliffhanger",
+      "patched_sha256": "4cf0930b0f4d8866fe566e04f561269c7fc38e85652e34d4bfb2c21db8fa1650",
+      "all_localize_entries_verified": 38,
+      "translated_occurrences": 37,
+      "shared_string_occurrences": 0,
+      "verified_aliases": [],
+      "structured_x64_load_succeeded": true,
+      "runtime_verified": false
+    },
+    {
+      "zone": "code_post_gfx",
+      "patched_sha256": "e1491eee7d15b46d1b7a24931301b9a11565fc70e7f727bec30e2a1a37fc332c",
+      "all_localize_entries_verified": 1662,
+      "translated_occurrences": 570,
+      "shared_string_occurrences": 13,
+      "verified_aliases": [
+        {
+          "key": "MENU_VOICE_CHAT",
+          "target": "語音聊天",
+          "shared_with": "MENU_VOICE_CHAT_BUTTON"
+        },
+        {
+          "key": "MENU_VOICECHAT",
+          "target": "語音聊天",
+          "shared_with": "MENU_VOICE_CHAT_BUTTON"
+        },
+        {
+          "key": "MENU_CONTROLS_CAP",
+          "target": "操作設定",
+          "shared_with": "MENU_CONTROLS_CAPS"
+        },
+        {
+          "key": "MENU_NONE",
+          "target": "無",
+          "shared_with": "MENU_SP_DIFF_RANKING_0"
+        },
+        {
+          "key": "MENU_GAME_SETUP",
+          "target": "遊戲設定",
+          "shared_with": "MENU_COOP_GAME_SETUP"
+        },
+        {
+          "key": "MENU_MESSAGE_OF_THE_DAY",
+          "target": "Infinity Ward 情報",
+          "shared_with": "MENU_SP_IW_INTEL"
+        },
+        {
+          "key": "MENU_RESET_TO_DEFAULT",
+          "target": "恢復預設值",
+          "shared_with": "MENU_RESET_TO_DEFAULTS"
+        },
+        {
+          "key": "MENU_BRIGHTNESS_CAPS",
+          "target": "亮度",
+          "shared_with": "MENU_BRIGHTNESS_CAP"
+        },
+        {
+          "key": "MENU_LOAD_EXISTING_OFFLINE_PROFILE",
+          "target": "載入",
+          "shared_with": "MENU_LOAD"
+        },
+        {
+          "key": "CGAME_YES",
+          "target": "是",
+          "shared_with": "MENU_YES_CAPS"
+        },
+        {
+          "key": "CGAME_NO",
+          "target": "否",
+          "shared_with": "MENU_NO_CAPS"
+        }
+      ],
+      "structured_x64_load_succeeded": true,
+      "runtime_verified": false
+    },
+    {
+      "zone": "common",
+      "patched_sha256": "1df9f37698cfee4c177be6d70935e160dd67cd8d19bfcb697ad34ea40534c4d4",
+      "all_localize_entries_verified": 4240,
+      "translated_occurrences": 2930,
+      "shared_string_occurrences": 138,
+      "verified_aliases": [
+        {
+          "key": "SUBTITLE_SO_ROOF_CONT_DEF_POS11",
+          "target": "^2幽靈：^7利用武器儲藏點，有剩餘的闊刀地雷就布設。進入防禦位置，快！",
+          "shared_with": "SUBTITLE_EST_GST_WEAPONSCACHE74"
+        }
+      ],
+      "structured_x64_load_succeeded": true,
+      "runtime_verified": false
+    },
+    {
+      "zone": "contingency",
+      "patched_sha256": "895de8cfcb816eaffb8cca8aa8a744d00d61bef055569254d6529f2628ba7b60",
+      "all_localize_entries_verified": 28,
+      "translated_occurrences": 28,
+      "shared_string_occurrences": 0,
+      "verified_aliases": [],
+      "structured_x64_load_succeeded": true,
+      "runtime_verified": false
+    },
+    {
+      "zone": "dc_whitehouse",
+      "patched_sha256": "467e4bb0ceab8545926434d5e8d20c179e239b8f65d900c2b47aba9ca78afd3e",
+      "all_localize_entries_verified": 9,
+      "translated_occurrences": 9,
+      "shared_string_occurrences": 0,
+      "verified_aliases": [],
+      "structured_x64_load_succeeded": true,
+      "runtime_verified": false
+    },
+    {
+      "zone": "dcburning",
+      "patched_sha256": "97f0dd1d71a08fcb6f536d18fb6525502b11e9b78ad4438fb38d56a54def922a",
+      "all_localize_entries_verified": 24,
+      "translated_occurrences": 24,
+      "shared_string_occurrences": 0,
+      "verified_aliases": [],
+      "structured_x64_load_succeeded": true,
+      "runtime_verified": false
+    },
+    {
+      "zone": "dcemp",
+      "patched_sha256": "7e7c5fe517aaa5458af19909385b03a7ae146a3c97de787d88702d41b476a609",
+      "all_localize_entries_verified": 19,
+      "translated_occurrences": 19,
+      "shared_string_occurrences": 0,
+      "verified_aliases": [],
+      "structured_x64_load_succeeded": true,
+      "runtime_verified": false
+    },
+    {
+      "zone": "ending",
+      "patched_sha256": "12f0f97a948385c6ebd44cb8ffe7182fe08b2b943a2d29f6ff5af92074ea9084",
+      "all_localize_entries_verified": 1440,
+      "translated_occurrences": 19,
+      "shared_string_occurrences": 1,
+      "verified_aliases": [
+        {
+          "key": "CREDIT_CAST_SOAP_MACTAVISH",
+          "target": "肥皂．麥克塔維什",
+          "shared_with": "AF_CHASE_INTROSCREEN_LINE3"
+        }
+      ],
+      "structured_x64_load_succeeded": true,
+      "runtime_verified": false
+    },
+    {
+      "zone": "estate",
+      "patched_sha256": "0a63f79c46cb1cdac024331362846e05d8a41302198123541539014eea8025f7",
+      "all_localize_entries_verified": 46,
+      "translated_occurrences": 43,
+      "shared_string_occurrences": 0,
+      "verified_aliases": [],
+      "structured_x64_load_succeeded": true,
+      "runtime_verified": false
+    },
+    {
+      "zone": "favela_escape",
+      "patched_sha256": "9c0dbf3ccb1233498895ec7ded8e3d75cdf8355b900e6bc3adcb62b8bd02177a",
+      "all_localize_entries_verified": 19,
+      "translated_occurrences": 19,
+      "shared_string_occurrences": 0,
+      "verified_aliases": [],
+      "structured_x64_load_succeeded": true,
+      "runtime_verified": false
+    },
+    {
+      "zone": "favela",
+      "patched_sha256": "e5f88ae3658e9d4920c50b35eda616e14e05120a71901295a433308c56cd16ce",
+      "all_localize_entries_verified": 11,
+      "translated_occurrences": 11,
+      "shared_string_occurrences": 0,
+      "verified_aliases": [],
+      "structured_x64_load_succeeded": true,
+      "runtime_verified": false
+    },
+    {
+      "zone": "gulag",
+      "patched_sha256": "cf3a0c4314da38a4441e160264d7093c3621f4d11f758e356c6e07442dc1ab9b",
+      "all_localize_entries_verified": 17,
+      "translated_occurrences": 17,
+      "shared_string_occurrences": 0,
+      "verified_aliases": [],
+      "structured_x64_load_succeeded": true,
+      "runtime_verified": false
+    },
+    {
+      "zone": "invasion",
+      "patched_sha256": "50583f123871f11b8c83741515f4a79c58d3f907bdf2117a10012f413f4bd1c5",
+      "all_localize_entries_verified": 51,
+      "translated_occurrences": 51,
+      "shared_string_occurrences": 6,
+      "verified_aliases": [],
+      "structured_x64_load_succeeded": true,
+      "runtime_verified": false
+    },
+    {
+      "zone": "oilrig",
+      "patched_sha256": "399010e3184f88fbb5a7790f10c0af84718ac00fae97757b4b2a40d52e3c9592",
+      "all_localize_entries_verified": 26,
+      "translated_occurrences": 26,
+      "shared_string_occurrences": 0,
+      "verified_aliases": [],
+      "structured_x64_load_succeeded": true,
+      "runtime_verified": false
+    },
+    {
+      "zone": "roadkill",
+      "patched_sha256": "4a9113e9e34af15964e7e1f6e1f9c316078255a923baaca9f9398f324f3bc82c",
+      "all_localize_entries_verified": 23,
+      "translated_occurrences": 23,
+      "shared_string_occurrences": 0,
+      "verified_aliases": [],
+      "structured_x64_load_succeeded": true,
+      "runtime_verified": false
+    },
+    {
+      "zone": "trainer",
+      "patched_sha256": "067830d87fec3f17b32c164224df8abcab12e9fbaa788b7cc4f05b57b054f57e",
+      "all_localize_entries_verified": 172,
+      "translated_occurrences": 172,
+      "shared_string_occurrences": 5,
+      "verified_aliases": [],
+      "structured_x64_load_succeeded": true,
+      "runtime_verified": false
+    },
+    {
+      "zone": "ui",
+      "patched_sha256": "91d51a323e7253f087539732890d4334d393a4b4f2eae924c903de222a731633",
+      "all_localize_entries_verified": 130,
+      "translated_occurrences": 1,
+      "shared_string_occurrences": 0,
+      "verified_aliases": [],
+      "structured_x64_load_succeeded": true,
+      "runtime_verified": false
+    }
+  ],
+  "total_translated_occurrences": 4093,
+  "unresolved_occurrences": 0,
+  "installed": false
+}

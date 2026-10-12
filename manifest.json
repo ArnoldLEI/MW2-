@@ -1,0 +1,167 @@
+{
+  "build_id": "25374375",
+  "files": [
+    {
+      "path": "zone/english/patch.ff",
+      "original_sha256": "68e182c653e5f115b7c4d0396b4e125a357b4ec12d86e41b6c22deafd26aa326",
+      "patch_sha256": "b06cf7afbec56af3a9de14417b308b8cd7a67221d8779ff238a94bcb5dac2abf"
+    },
+    {
+      "path": "zone/english/af_caves.ff",
+      "original_sha256": "174d7700ec251107f5015d88eeb9a9c7a83e6546a0012b915f32403e3a3dd4ad",
+      "patch_sha256": "15b19c775e19b8c4cc23adda73ee10136252ce5a9b973f475e571b3b8739e4cb"
+    },
+    {
+      "path": "zone/english/af_chase.ff",
+      "original_sha256": "2e11cf4f53af160ae8de0bd072888f869183955129bcc4f13ce5d7a096d41a4e",
+      "patch_sha256": "dfa85d5d8470fed78f2e6612c2038f2770227a88e78966a73a4e5c18a893798c"
+    },
+    {
+      "path": "zone/english/airport.ff",
+      "original_sha256": "8dd734ecfba6bbd2f8696418fdea371f230e75f97152328f3139d6384e10fe0f",
+      "patch_sha256": "ee6e2f237da41ef4668799ffa6c22b1d655256f3dc0144269b3ed9923d0b5b96"
+    },
+    {
+      "path": "zone/english/arcadia.ff",
+      "original_sha256": "2a3d602d1358ed6cc4c6a497959683c263d3d1eb101e3d939b01dd815b133154",
+      "patch_sha256": "064e34eee553d87f2c16e6173aa65040cf62ca7659365a7daf5a36502d74a8ad"
+    },
+    {
+      "path": "zone/english/boneyard.ff",
+      "original_sha256": "b14527a13c0e5e0afed0c322e658002c0fd659b98c6ea0c3ae252841aff7a718",
+      "patch_sha256": "d249bc86a4f411c0faa4a4822755d9a4b47cc2d76b0f87ce5ffaa4973fc86500"
+    },
+    {
+      "path": "zone/english/cliffhanger.ff",
+      "original_sha256": "96b72f821531e59aed91f8625db631f9bcbd0cfb0b9c5a989d38cb98f73083f3",
+      "patch_sha256": "4cf0930b0f4d8866fe566e04f561269c7fc38e85652e34d4bfb2c21db8fa1650"
+    },
+    {
+      "path": "zone/english/code_post_gfx.ff",
+      "original_sha256": "3df01060bdcbfb08880c5a698bcf8619bcda916a94d29bd42f61d4f9a98e289b",
+      "patch_sha256": "e1491eee7d15b46d1b7a24931301b9a11565fc70e7f727bec30e2a1a37fc332c"
+    },
+    {
+      "path": "zone/english/common.ff",
+      "original_sha256": "c12812294d7cbbac61a4b74661d04797983795312fd252b493982cf63ad258e0",
+      "patch_sha256": "39e5da611b68efee2f4b9a89f85cc169e656620d68e8ce5070aac602e4363373"
+    },
+    {
+      "path": "zone/english/contingency.ff",
+      "original_sha256": "309c8ab66409a53c1fd986c1de78f8ef7fca7af450946c92ff2bdbdd7afb6be3",
+      "patch_sha256": "895de8cfcb816eaffb8cca8aa8a744d00d61bef055569254d6529f2628ba7b60"
+    },
+    {
+      "path": "zone/english/dc_whitehouse.ff",
+      "original_sha256": "50d86d790e15fbefcad853100f1a0cd6c3fa8923ffda92d08cefcaa3070a57be",
+      "patch_sha256": "467e4bb0ceab8545926434d5e8d20c179e239b8f65d900c2b47aba9ca78afd3e"
+    },
+    {
+      "path": "zone/english/dcburning.ff",
+      "original_sha256": "b62e9d5c5aeb443c35c104b6a4b576f54647d5c3d1f8e6f7aebec840515df21d",
+      "patch_sha256": "97f0dd1d71a08fcb6f536d18fb6525502b11e9b78ad4438fb38d56a54def922a"
+    },
+    {
+      "path": "zone/english/dcemp.ff",
+      "original_sha256": "7bde8f3bb4536dfb5bef5b73c89b7ee3da024c6d294ade2fb5dfed134a46a812",
+      "patch_sha256": "7e7c5fe517aaa5458af19909385b03a7ae146a3c97de787d88702d41b476a609"
+    },
+    {
+      "path": "zone/english/ending.ff",
+      "original_sha256": "73339af64323a7a610901fb68ad12ba70b7ec36b29ac63e9cfbbad6f7adda5b2",
+      "patch_sha256": "12f0f97a948385c6ebd44cb8ffe7182fe08b2b943a2d29f6ff5af92074ea9084"
+    },
+    {
+      "path": "zone/english/estate.ff",
+      "original_sha256": "7f2f6bf6e3ce3ff74b8004d6e91b3a7e70cdf07d69d6f9061be8d741a59535f2",
+      "patch_sha256": "0a63f79c46cb1cdac024331362846e05d8a41302198123541539014eea8025f7"
+    },
+    {
+      "path": "zone/english/favela_escape.ff",
+      "original_sha256": "6a9293c194bd4a6bf1cb7dfa5bb4cf5ebcfadf00ff06757806297f698ccbef6f",
+      "patch_sha256": "9c0dbf3ccb1233498895ec7ded8e3d75cdf8355b900e6bc3adcb62b8bd02177a"
+    },
+    {
+      "path": "zone/english/favela.ff",
+      "original_sha256": "de9b92f0633cc3d701e2b11602962fd3e54ce22f1c30143491aeba0428f5d2b2",
+      "patch_sha256": "e5f88ae3658e9d4920c50b35eda616e14e05120a71901295a433308c56cd16ce"
+    },
+    {
+      "path": "zone/english/gulag.ff",
+      "original_sha256": "2bd61c774fd86221a38b699fc67219938fab6f26e4bbab9ab4e723a00e422b8c",
+      "patch_sha256": "cf3a0c4314da38a4441e160264d7093c3621f4d11f758e356c6e07442dc1ab9b"
+    },
+    {
+      "path": "zone/english/invasion.ff",
+      "original_sha256": "8890323f9c0c7a2bd47aecd87caea1a31a7dab34212948b937b2b4d6b05ae482",
+      "patch_sha256": "50583f123871f11b8c83741515f4a79c58d3f907bdf2117a10012f413f4bd1c5"
+    },
+    {
+      "path": "zone/english/oilrig.ff",
+      "original_sha256": "a627b206216a7c96d0a71326def08263865fbf94f3dfb82d1d98c3b67a497e38",
+      "patch_sha256": "399010e3184f88fbb5a7790f10c0af84718ac00fae97757b4b2a40d52e3c9592"
+    },
+    {
+      "path": "zone/english/roadkill.ff",
+      "original_sha256": "2e3eff110894563bc8280174eb146e35ff6c0344858e1bfac3180ce372337ba3",
+      "patch_sha256": "4a9113e9e34af15964e7e1f6e1f9c316078255a923baaca9f9398f324f3bc82c"
+    },
+    {
+      "path": "zone/english/trainer.ff",
+      "original_sha256": "69fe5ac6a0f27967a18bb151412e4d8fb94c774f20fbad90391d511fb01ea303",
+      "patch_sha256": "067830d87fec3f17b32c164224df8abcab12e9fbaa788b7cc4f05b57b054f57e"
+    },
+    {
+      "path": "zone/english/ui.ff",
+      "original_sha256": "6a941b5855cb8679d2f0c56c4609184436c79b39664b13460ba21dc6c410fc5a",
+      "patch_sha256": "80200c33643a821d0efa2a86c500b13016852daec99d800e30378970e182b23b"
+    },
+    {
+      "path": "localization.txt",
+      "original_sha256": "6f12c533fe7ecdd729028739a9974033aafd2eafb68e8cb7b4ee3559adb3201c",
+      "patch_sha256": "1730eaf11d81a0428b72083f043278fcea9af7bd1cdc65971d0767576e75f80f"
+    }
+  ],
+  "localized_iwds": [
+    {
+      "source": "localized_english_iw00.iwd",
+      "alias": "localized_taiwanese_iw00.iwd",
+      "bytes": 182279
+    },
+    {
+      "source": "localized_english_iw01.iwd",
+      "alias": "localized_taiwanese_iw01.iwd",
+      "bytes": 421152722
+    },
+    {
+      "source": "localized_english_iw02.iwd",
+      "alias": "localized_taiwanese_iw02.iwd",
+      "bytes": 421380857
+    },
+    {
+      "source": "localized_english_iw03.iwd",
+      "alias": "localized_taiwanese_iw03.iwd",
+      "bytes": 420280433
+    },
+    {
+      "source": "localized_english_iw04.iwd",
+      "alias": "localized_taiwanese_iw04.iwd",
+      "bytes": 39835330
+    }
+  ],
+  "status": "campaign-text-complete-structured-assets-and-runtime-smoke-tests-verified",
+  "translated_unique_keys": 4676,
+  "translated_occurrences": 4797,
+  "text_encoding": "big5",
+  "native_language": 9,
+  "includes_multiplayer": false,
+  "images_and_videos_remade": false,
+  "includes_credits_translation": false,
+  "includes_spec_ops_mission_patches": false,
+  "full_localization_complete": true,
+  "campaign_text_authoring_complete": true,
+  "last_translated_chapter": "18 Endgame / 終局",
+  "runtime_full_playthrough_verified": false,
+  "version": "1.0",
+  "completion_basis": "All statically identified in-scope campaign and shared-interface keys authored and verified in native assets; this flag does not mean full playthrough QA."
+}

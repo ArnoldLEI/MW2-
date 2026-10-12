@@ -1,0 +1,30 @@
+{
+  "updated": "2026-10-10T01:05:39.364741",
+  "game_build": "25374375",
+  "authored_unique_keys": 4676,
+  "campaign_subtitle_keys": 2365,
+  "static_required_missing_keys": 0,
+  "static_missing_subtitle_keys": 0,
+  "frontend_settings_and_pause_verified": true,
+  "gameplay_dialogue_smoke_test_chapters": [
+    1,
+    2
+  ],
+  "briefing_subtitle_smoke_test_chapters": [
+    1,
+    2,
+    18
+  ],
+  "late_campaign_level_load_verified": "18 Endgame",
+  "confirmed_runtime_fixes": [
+    "save-exit text no longer overlaps buttons",
+    "restart-mission warning now fits dialog"
+  ],
+  "all_24_resources_restored_then_reinstalled": true,
+  "windows_powershell_installer_and_restorer_verified": true,
+  "player_snapshot_files_restored": 12,
+  "temporary_test_settings_removed": true,
+  "full_18_chapter_playthrough_verified": false,
+  "per_line_audio_sync_verified": false,
+  "screenshots_directory": "實測畫面"
+}

@@ -1,0 +1,4 @@
+payload/zone/english/*.ff
+!payload/zone/english/patch.ff
+__pycache__/
+*.tmp
