@@ -1,0 +1,16 @@
+{
+  "repository": "https://github.com/ArnoldLEI/MW2-",
+  "commit": "059f001f1ec3195d0cc5e268a7b53ad683887030",
+  "tracked_files": 86,
+  "downloaded_bytes_match": true,
+  "ai_notice_verified": true,
+  "corrupt_delta_rejected": true,
+  "unsupported_source_rejected": true,
+  "downloaded_reconstruction_smoke_test": true,
+  "game_files_not_modified": true,
+  "full_distribution_reconstruction_verified": true,
+  "reconstructed_resource_files": 24,
+  "date": "2026-10-12",
+  "ai_notice_added_to_local_complete_package": true,
+  "runtime_full_playthrough_verified": false
+}
